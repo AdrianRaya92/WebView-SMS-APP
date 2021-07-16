@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+
+
+    <string name="nombre">Nombre apellidos y DNI</string>
+    <string name="conex">CONEXIÓN</string>
+    <string name="sms">ENVIAR SMS</string>
+    <string name="textosms">Escribe el texto del sms a</string>
+    <string name="telef">Teléfono</string>
+
+
+</resources>
